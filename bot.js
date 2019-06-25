@@ -10,4 +10,4 @@ channel.send(`play is spam play is spam play is spam`);
 }, 30)
 })
 
-client.login(process.env.BOT_TOKEN);
+client.login(process.env.44);
